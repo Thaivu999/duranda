@@ -190,7 +190,7 @@
 }
 
 .input-box input:focus~label,
-.input-box input:focus~label {
+.input-box input:valid~label {
     font-size: 20px;
     top: -14px;
     left: 17px;
